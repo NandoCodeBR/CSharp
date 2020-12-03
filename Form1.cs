@@ -1,4 +1,7 @@
-﻿using System;
+//PROGRAMA USADO PARA FAZER A SOMA DE DOIS VALORES DE TEXTBOX
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
